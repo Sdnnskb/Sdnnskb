@@ -1,10 +1,17 @@
-- 👋 Hi, I’m @Sdnnskb
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning HTML, CSS and Javascript  
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+I am a student of the Department of Economics in the University of Dhaka. 
 
-<!---
-Sdnnskb/Sdnnskb is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+In my current undergraduate program, I have so far recieved the following courses that relate to data science and statistical learning
+
+1. Calculus 1 and 2
+2. Linear Algebra
+3. Introduction to Statistics
+4. Real Analysis                       
+5. Intermediate Probability theory 
+6. Advanced Statistical Methods
+7. Econometrics of Cross Sectional Data with STATA
+8. Alternative Statistical Models with R
+9. Introduction to Statistical Learning with Python
+10. Advanced Econometrics of Time Series Data
+
+All of the courses that I took had 4 credit hours.
+I look forward to continue to improve in my scientific pursuit of scientific computing and machine learning.
